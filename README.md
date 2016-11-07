@@ -1,6 +1,6 @@
 ## Roboto Condensed Font v13
 
-This package contains regular *Roboto Condensed* font [style](https://github.com/ox2/css-font-roboto#bundled-font-styles) that is converted to base64-encoded data URI strings and embedded into a css file.
+This package contains regular *Roboto Condensed* font [style](https://github.com/ox2/css-font-roboto-condensed#bundled-font-styles) that is converted to base64-encoded data URI strings and embedded into a css file.
 
 ### Installation
 Install using [npm](http://npmjs.com):
