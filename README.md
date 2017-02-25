@@ -18,6 +18,7 @@ This is useful for prototyping as you can start using the font quickly by import
 You can use it in a webpack project by importing it `import '@ox2/css-font-roboto-condensed'` in your top level js file like `index.js` or in a `.storybook/config.js` if your using [React Storybook](https://github.com/storybooks/react-storybook).
 
 ### Bundled font styles
+- Regular 300
 - Regular 400
 
 ### Bundled font language subsets
